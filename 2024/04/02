@@ -2,9 +2,8 @@
 - Learn Git Branching (Remote編)　終了
 - 課題提出用のリポジトリを作成
 ## わかったこと
-- リモート編でのGitコマンド。
 - o/mainを追跡するブランチを作成するコマンド
-- 引数を使ったpush,fetch,pull
+- 引数を使ったgit push, git fetch, git pull
 ## 次やること
 - Pull Requestの練習
 - github flowについて学ぶ
@@ -12,4 +11,4 @@
 - Learn Git Branching Remote編は難しかった、2-1はどうしてもわからなかった。
 ## 学習時間
 - Today: 3.0h
-- Total: 169.0h
+- Total: 172.0h
